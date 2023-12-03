@@ -10,7 +10,7 @@ const image
 const mySite = 'https://blog.ajlo.org/'
 useHead({
   htmlAttrs: {
-    lang: 'en',
+    lang: 'zh-hant',
   },
   meta: [
     {
