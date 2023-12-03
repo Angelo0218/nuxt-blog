@@ -31,7 +31,7 @@ function onClick(val: string) {
           </NuxtLink>
         </li>
         <li title="About Me" :class="{ underline: path === 'about' }">
-          <NuxtLink to="/about" aria-label="About me">
+          <NuxtLink to="/about" aria-label="關於我">
             關於我
           </NuxtLink>
         </li>
