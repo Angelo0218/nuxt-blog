@@ -1,10 +1,10 @@
 <template>
   <div>
     <p class="text-black dark:text-zinc-300   text-base py-1 font-semibold">
-      About This Site
+      關於本網站
     </p>
     <p class="py-2 dark:text-zinc-300 ">
-      This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.
+      本網站的所有內容均受版權保護，未經作者同意，嚴禁轉載商業用途。如有任何問題或合作請聯繫作者
     </p>
   </div>
 </template>

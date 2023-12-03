@@ -15,7 +15,7 @@ function onClick(val: string) {
       <ul class="flex items-baseline space-x-5">
         <li class="text-base sm:text-2xl font-bold">
           <NuxtLink to="/" :class="{ underline: path === '' }">
-            Riyad's Blog
+            Angelo's Blog
           </NuxtLink>
         </li>
       </ul>
@@ -27,12 +27,12 @@ function onClick(val: string) {
         </li>
         <li>
           <NuxtLink to="/categories" :class="{ underline: path === 'categories' }">
-            Categories
+            分類
           </NuxtLink>
         </li>
         <li title="About Me" :class="{ underline: path === 'about' }">
           <NuxtLink to="/about" aria-label="About me">
-            About
+            關於我
           </NuxtLink>
         </li>
         <li>

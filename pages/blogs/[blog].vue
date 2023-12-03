@@ -30,11 +30,11 @@ useHead({
       content: data.value.description,
     },
     // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
-    { property: 'og:site_name', content: 'Riyad\'s Blog' },
+    { property: 'og:site_name', content: 'Angelo\'s Blog' },
     { hid: 'og:type', property: 'og:type', content: 'website' },
     {
       property: 'og:url',
-      content: `https://blog-nurriyad.vercel.app/${path}`,
+      content: `https://blog-nurAngelo.vercel.app/${path}`,
     },
     {
       property: 'og:title',
@@ -53,7 +53,7 @@ useHead({
     { name: 'twitter:card', content: 'summary_large_image' },
     {
       name: 'twitter:url',
-      content: `https://blog-nurriyad.vercel.app/${path}`,
+      content: `https://blog-nurAngelo.vercel.app/${path}`,
     },
     {
       name: 'twitter:title',
@@ -71,7 +71,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `https://blog-nurriyad.vercel.app/${path}`,
+      href: `https://blog-nurAngelo.vercel.app/${path}`,
     },
   ],
 })

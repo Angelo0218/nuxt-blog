@@ -3,19 +3,8 @@ import { makeFirstCharUpper } from '@/utils/helper'
 
 const topics = [
   'javascript',
-  'typescript',
-  'git',
-  'docker',
-  'kubernetes',
-  'vue',
-  'nuxt',
-  'pinia',
-  'vuex',
-  'firebase',
-  'supabse',
-  'cypress',
-  'vercel',
-  'namecheap',
+  'Vue3',
+  'Node.js',
 ]
 
 useHead({
@@ -27,7 +16,7 @@ useHead({
         'Below All the topics are listed on which either I have written a blog or will write a blog in near future.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Angelo\'s Blog - %s',
 })
 
 defineOgImage()
