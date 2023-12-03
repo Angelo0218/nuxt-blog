@@ -1,13 +1,13 @@
 <script setup>
 const description
-  = 'Angelo, Software Engineer at AppsCode working on ByteBuilders, with over 2+ years experience in Frontend development.'
+  = 'Angelo'
 const ogTitle
-  = 'Angelo codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving'
+  = 'Angelo '
 const twitterDescription
-  = 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc'
+  = 'My blog '
 const image
   = 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp'
-const mySite = 'https://blog-nurAngelo.vercel.app/'
+const mySite = 'https://blog.ajlo.org/'
 useHead({
   htmlAttrs: {
     lang: 'en',

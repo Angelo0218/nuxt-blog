@@ -16,11 +16,11 @@ export default defineNuxtConfig({
     strictNuxtContentPaths: true,
   },
   site: {
-    url: 'https://blog.nurAngelo.xyz',
+    url: 'https://blog.ajlo.org/',
     identity: {
       type: 'Person',
     },
-    twitter: '@qdnvubp',
+    twitter: '@Ajlo0218',
   },
 
   typescript: {
